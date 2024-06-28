@@ -1,1 +1,1 @@
-# spotifyproject
+Goal: create a master playlist with all the added albums.
