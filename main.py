@@ -20,8 +20,6 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
 
 # Get saved tracks using API
 saved_tracks = sp.current_user_saved_tracks()
-print(saved_tracks['items'])
-
 
 # Create dataframe of saved tracks 
 track_list = []
