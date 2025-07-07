@@ -1,6 +1,6 @@
 # Spotify Master Playlist Generator
 
-Automatically creates a "Master Playlist" with all tracks from your saved albums and liked songs playlist.
+Automatically combines all tracks from your saved albums and liked songs into a "Master Playlist".
 
 ## Features
 - Extracts every track from liked tracks
